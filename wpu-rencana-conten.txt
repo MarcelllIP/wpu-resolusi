@@ -3,5 +3,6 @@
 - PHP framework
   * ES6
   * Framework Javascript
+  - sturktur data dasar
 - Interview
 - Vlogs

@@ -4,7 +4,7 @@
   * ES6
   * Framework Javascript
     ^ vue
-    ^ reacyt
+    ^ react
   - sturktur data dasar
   - php framework
     ^ laravel

@@ -1,9 +1,10 @@
  RENCANA KONTEN WPU
 
-- java script
+- javascript
   * ES6
   * Framework Javascript
     ^ vue
+    ^ reacyt
   - sturktur data dasar
   - php framework
     ^ laravel

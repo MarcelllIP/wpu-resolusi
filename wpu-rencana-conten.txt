@@ -1,8 +1,12 @@
  RENCANA KONTEN WPU
 
-- PHP framework
+- java script
   * ES6
   * Framework Javascript
+    ^ vue
   - sturktur data dasar
+  - php framework
+    ^ laravel
 - Interview
 - Vlogs
+- phyton

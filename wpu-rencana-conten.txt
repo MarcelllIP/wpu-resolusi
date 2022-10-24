@@ -3,9 +3,11 @@
 - javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
-  - php framework \
-    ^ laravel  
+    ^ vue
+    ^ reacyt
+  - sturktur data dasar
+  - php framework
+    ^ laravel
 - Interview
 - Vlogs
+- phyton
